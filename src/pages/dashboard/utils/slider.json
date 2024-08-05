@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Centrigual Chiller",
+        "details": "Prominent & Leading Manufacturer from Gurgaon, we offer Scroll Screw And Centrifugal Chiller, Water Cooled Screw Chiller and Automatic Water Cooled Chillers.",
+        "image": "./centrifugal-chiller.webp"
+    },
+    {
+        "name" : "Axial Fans",
+        "details": "Leading Manufacturer of Centrifugal And Axial Fans and Industrial Centrifugal And Axial Fans from Gurgaon.",
+        "image": "./air-handling.webp"
+    },
+    {
+        "name" : "Air Conditioner",
+        "details": "Providing you the best range of 3 Ton Ductable Air Conditioner and Cassette Automatic Air Conditioners with effective & timely delivery.",
+        "image": "./air-conditoner.webp"
+    },
+    {
+        "name" : "Air Handling Unit",
+        "details": "Prominent & Leading Manufacturer from Gurgaon, we offer Double Skin Air Handling Unit and Chiller Air Handling Unit.",
+        "image": "./axial-fans.webp"
+    },
+    {
+        "name" : "VRF and VRV System",
+        "details": "Prominent & Leading Manufacturer from Gurgaon, we offer Residential Variable Refrigerant System and Variable Refrigerant Volume System.",
+        "image": "./residential-variable-refrigerant-system-500x500.webp"
+    },
+    {
+        "name" : "Air Washer And Scrubber",
+        "details": "Manufacturer of a wide range of products which include Air Washer And Scrubber.",
+        "image": "./air-washer-and-air-scrubber-250x250.webp"
+    },
+    {
+        "name" : "Cooling Towers",
+        "details": "Our product range includes a wide range of Industrial Cooling Tower System.",
+        "image": "./cooling-towers.webp"
+    },
+    {
+        "name" : "Clean Room Structures",
+        "details": "Prominent & Leading Manufacturer from Gurgaon, we offer Clean Room Structures.",
+        "image": "./clean-room.webp"
+    }
+]   
